@@ -1,0 +1,29 @@
+{
+  "name": "gdmanjarosflyingsquidserver",
+  "version": "1.0.0",
+  "description": "My Minecraft Server Using flying-squid",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GDManjaro/My-Flying-Squid-Minecraft-Server.git"
+  },
+  "keywords": [
+    "minecraft",
+    "server",
+    "mcserver",
+    "flying-squid"
+  ],
+  "author": "GD Manjaro#1295",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GDManjaro/My-Flying-Squid-Minecraft-Server/issues"
+  },
+  "homepage": "https://github.com/GDManjaro/My-Flying-Squid-Minecraft-Server#readme",
+  "dependencies": {
+    "flying-squid": "^1.4.0",
+    "minecraft-data": "^2.84.0"
+  }
+}
